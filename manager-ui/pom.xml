@@ -10,11 +10,11 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <properties>
-        <vaadin.version>7.7.4</vaadin.version>
+        <vaadin.version>8.12.3</vaadin.version>
         <servlet.api.version>3.0.1</servlet.api.version>
         <javaee.api.version>7.0</javaee.api.version>
         <maven.war.plugin.version>2.1.1</maven.war.plugin.version>
-        <vaadin.cdi.version>1.0.3</vaadin.cdi.version>
+        <vaadin.cdi.version>10.0.0</vaadin.cdi.version>
         <cdi.api.version>1.2</cdi.api.version>
         <annotation.api.version>1.2-b01</annotation.api.version>
         <javax.inject.version>1</javax.inject.version>
@@ -103,7 +103,7 @@
                             <archive>
                                 <manifest>
                                     <addClasspath>true</addClasspath>
-                                    <classpathPrefix />
+                                    <classpathPrefix/>
                                 </manifest>
                                 <manifestEntries>
                                     <Implementation-Build>${build.number}</Implementation-Build>
