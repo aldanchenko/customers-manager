@@ -14,7 +14,7 @@
         <servlet.jsp.api.version>2.3.1</servlet.jsp.api.version>
         <spring.version>4.3.18.RELEASE</spring.version>
         <spring.jpa.version>1.10.5.RELEASE</spring.jpa.version>
-        <hibernate.entity.manager.version>5.0.0.CR2</hibernate.entity.manager.version>
+        <hibernate.entity.manager.version>5.1.17.Final</hibernate.entity.manager.version>
         <ejb.version>3.0</ejb.version>
         <mysql.version>5.1.36</mysql.version>
         <log4j.version>1.2.17</log4j.version>
